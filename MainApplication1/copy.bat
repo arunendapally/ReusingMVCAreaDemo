@@ -1,0 +1,1 @@
+xcopy /C /E /F /R /Y /I "C:\Arun\Demos\ReusingMVCAreaDemo\BlogApp\Views" "C:\Arun\Demos\ReusingMVCAreaDemo\MainApplication1\Areas\BlogApp\Views"
